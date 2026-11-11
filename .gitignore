@@ -1,0 +1,4 @@
+node_modules/
+.outlook-mcp-lite/
+*.bin
+.env
